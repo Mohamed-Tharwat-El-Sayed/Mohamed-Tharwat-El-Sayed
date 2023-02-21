@@ -2,7 +2,7 @@
 <h1 align="center"><b> Hello there!, I'm Moh. Tharwat</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="left"> I'm a System Admin and JR DevOps Engineer from Egypt. Working in DevOps IS MY PASSION.
 Most of the times I play with Projects on various languages like Python and on DevOps tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc. 
-when l don`t this I watching sitcoms, play Football or playing mobile games.</h3>
+when l don`t do this I watching sitcoms, play Football or playing mobile games.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-tharwat-el-sayed&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-tharwat-el-sayed" /> </p>
 
