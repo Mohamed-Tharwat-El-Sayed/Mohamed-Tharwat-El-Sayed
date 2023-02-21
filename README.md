@@ -1,11 +1,11 @@
 
 <h1 align="center">Hello there!, I'm Moh. Tharwat👋</h1>
-<h3 align="center">I'm a System Admin and JR DevOps Engineer from Egypt. Working in DevOps IS MY PASSION. Most of the times I play with Projects on various languages like Python and on DevOps tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc. when l don`t this I watching sitcoms, play Football or playing mobile games.</h3>
+<h3 align="left">I'm a System Admin and JR DevOps Engineer from Egypt. Working in DevOps IS MY PASSION. Most of the times I play with Projects on various languages like Python and on DevOps tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc. when l don`t this I watching sitcoms, play Football or playing mobile games.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-tharwat-el-sayed&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-tharwat-el-sayed" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ## ⚡ Updates
 
@@ -60,7 +60,7 @@
 
 ## ⚡ Top Repositories
 <a href="https://github.com/Mohamed-Tharwat-El-Sayed/Secure-GKE-GCP-Terrafom-to-jenkins.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Tharwat-El-Sayed&repo=demo-counter-app&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Tharwat-El-Sayed&repo=Secure-GKE-GCP-Terrafom-to-jenkins&theme=buefy" />
 </a>
 <a href="https://github.com/Mohamed-Tharwat-El-Sayed/installation_scripts.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Tharwat-El-Sayed&repo=installation_scripts&theme=buefy" />
