@@ -9,7 +9,6 @@ when l don`t this I watching sitcoms, play Football or playing mobile games.</h3
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-## ⚡ Updates
 
 - 🔭 I’m currently working on **Projects to Deep learn**
 
@@ -47,7 +46,7 @@ when l don`t this I watching sitcoms, play Football or playing mobile games.</h3
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-## If you have any questions, contact me on:
+## ⚡ If you have any questions, contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tharwat-elsayed/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100006552885178)
 
