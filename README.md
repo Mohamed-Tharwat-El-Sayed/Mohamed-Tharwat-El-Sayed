@@ -14,7 +14,7 @@ when l don`t do this I watching sitcoms, play Football or playing mobile games.<
 
 - 🌱 I’m currently learning **Devops Tools and Technology**
 
-- 🤝 I’m currently preparing for **AWS Cloud Practitioner**
+- 🤝 I have got  **AWS Cloud Practitioner**
 
 - 💬 Ask me about **scripting and DevOps Tools**
 
